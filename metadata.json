@@ -1,0 +1,7 @@
+{
+  "name": "Aesthetica Safety",
+  "description": "An educational guide on dermal filler safety, risks, and alternatives using interactive 3D-style mapping and location-based clinic verification.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
